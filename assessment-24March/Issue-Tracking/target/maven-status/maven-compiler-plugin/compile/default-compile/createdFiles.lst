@@ -1,0 +1,8 @@
+com\gal\issuetracker\service\IssueServiceImpl.class
+com\gal\issuetracker\entity\Issue.class
+com\gal\issuetracker\entity\Employee.class
+com\gal\issuetracker\controller\IssueController.class
+com\gal\issuetracker\IssueTrackingApplication.class
+com\gal\issuetracker\repository\EmployeeRepository.class
+com\gal\issuetracker\service\IssueService.class
+com\gal\issuetracker\repository\IssueRepository.class
